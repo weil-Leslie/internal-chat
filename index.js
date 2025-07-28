@@ -42,7 +42,7 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(HTTP_PORT, () => {
-  console.log(`server start on port ${HTTP_PORT}`);
+  console.log(`server start on http://192.168.1.147:${HTTP_PORT}`);
 });
 
 

@@ -1,0 +1,6 @@
+{
+  "name": "internal-chat",
+  "description": "局域网文件消息发送系统",
+  "entrypoint": "run.sh",
+  "type": "shell"
+}
